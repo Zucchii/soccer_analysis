@@ -2,3 +2,4 @@ A list of Python packages for our list:
 NumPy
 Pendulum
 MoviePy
+seaborn
